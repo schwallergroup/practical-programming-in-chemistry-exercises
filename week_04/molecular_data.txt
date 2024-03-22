@@ -22,3 +22,4 @@ Nonane,128.25,150.8
 Decane,142.28,174.1
 Caffeine,194.19,178.0
 Ethane,30.07,-88.6
+Serotonin, 176.22, 167.5
