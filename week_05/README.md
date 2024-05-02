@@ -22,6 +22,6 @@ It would be good practice for you to try and write the commands yourselves. If y
 </details>
 
 
-Next, we need to change the versions of rdkit and pandas to make sure everything works properly. To do this, activate your ppchem conda environment (`conda activate ppchem`). We installed a slightly older version of rdkit and we want the newest one. Uninstall rdkit with `conda uninstall rdkit`. Now, reinstall rdkit with `conda install -c conda-forge rdkit` which will take the more recent version. We will repeat with pandas. Since we installed pandas with pip, we will uninstall it with pip: `pip uninstall pandas`. Now, we want version 2.1.4. Let's install it with `pip install pandas==2.1.4`. 
+Next, we need to change the versions of rdkit and pandas to make sure everything works properly. To do this, activate your ppchem conda environment (`conda activate ppchem`). We installed a slightly older version of rdkit and we want the newest one. Uninstall rdkit with `pip uninstall rdkit`. Now, reinstall rdkit with `conda install -c conda-forge rdkit` which will take the more recent version. We will repeat with pandas. Since we installed pandas with pip, we will uninstall it with pip: `pip uninstall pandas`. Now, we want version 2.1.4. Let's install it with `pip install pandas==2.1.4`. 
 
 **Happy coding** :star_struck:

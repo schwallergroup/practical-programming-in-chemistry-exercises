@@ -5,4 +5,8 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[project] # define name = ..., version = 0.0.1 (or whatever you want), dependencies = [...] (rdkit is the only one, in this package)
+[project]
+name = "amremover_package"
+version = "0.0.1"
+dependencies = ["rdkit", ]
+# define name = ..., version = 0.0.1 (or whatever you want), dependencies = [...] (rdkit is the only one, in this package)

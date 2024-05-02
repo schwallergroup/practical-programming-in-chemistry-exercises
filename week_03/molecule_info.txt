@@ -1,0 +1,3 @@
+Molecule: Ferrocene
+Image URL: https://github.com/MGalka66/ppchem/blob/main/Ferrocene.png
+Description: Ferrocene is an organometallic compound with the formula Fe(C5H5)2. The molecule is a complex consisting of two cyclopentadienyl rings sandwiching a central iron atom.
