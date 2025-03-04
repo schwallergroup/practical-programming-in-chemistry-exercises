@@ -1,0 +1,6 @@
+# Scientist Name | Theoretical Yield (g) | Actual Yield (g)
+Philippe 5.0 2.78
+Rebecca is myname
+Sarina 0.1 0.09
+Joe 1000.0 -1.0
+Daniel 3.14 3.15
