@@ -1,0 +1,3 @@
+Molecule: Fmoc
+Image URL: https://github.com/Clarabrgnz/ppchem/blob/ce3acd9cfc3c3b8ca6ac1e04121b4f402eff2d5a/Fmoc.pn
+Description: The fluorenylmethoxycarbonyl protecting group (Fmoc) is a base-labile amine protecting group used in organic synthesis, particularly in peptide synthesis.
