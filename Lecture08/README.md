@@ -52,7 +52,9 @@ Next, we will clone the source code and install the package from source:
 
 ![Clone address](../assets/Lecture08/clone_drfp.jpg)
 
-Navigate on your terminal to the folder where you keep your git repositories, for example `~/git`. In here, and **making sure you are not inside another repository**, clone the `drfp` package and navaigate to it:
+Navigate on your terminal to the folder where you keep your git repositories, for example `~/git`. In here, **make sure you are not inside another repository**. You can do this by using `git status`, which should return an error `fatal: not a git repository` if you are **not** inside another repository. 
+
+Clone the `drfp` package and navaigate to it:
 
 ```
 git clone https://github.com/reymond-group/drfp.git
