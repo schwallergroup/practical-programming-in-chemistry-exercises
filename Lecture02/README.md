@@ -168,3 +168,10 @@ In these cases, best practice is often to work in a branch of the repo that is y
 Above are the basic Git commands you'll frequently use which cover most of the general use cases from cloning repositories to making changes and updating your remote branches. Each command is a powerful tool in Git, and they are designed to work together to create a seamless workflow.
 
 Remember, the best way to become comfortable with Git is practice. Try using these commands to manage a test project and experiment until you're confident with the functionality of each one.
+
+## 3. What can I do next?
+
+If you have completed all steps above and still feel like exploring more, here are two suggestions:
+
+- **Beautify your GitHub profile**: Revisit the inspiration links above, especially the [blogpost with tips for creative profiles](https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog), and experiment with sections, badges, images, or emojis to make your profile README more personal and informative.
+- **Play an advanced Git game**: Try the interactive game at [learngitbranching.js.org](https://learngitbranching.js.org) to practice Git branching, merging, and more advanced workflows in a visual and playful way.
