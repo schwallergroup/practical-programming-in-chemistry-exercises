@@ -11,7 +11,7 @@ Having set up `conda`, we will now create a new environment for this course. We 
 - Python version: `3.10`
 - Packages:
     - `pandas`
-    - `rdkit` (version `2022.09.5`)
+    - `rdkit`
     - `jupyter`
 
 You can find all necessary information on what commands to use in the [conda documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
@@ -24,7 +24,7 @@ In a terminal, type the following commands:
 conda create -n ppchem python=3.10
 conda activate ppchem
 pip install pandas  # installs numpy as dependency
-pip install rdkit==2022.09.5
+pip install rdkit
 pip install jupyter
 ```
 
