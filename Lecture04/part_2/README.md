@@ -96,22 +96,22 @@ Navigate to your repository on Github, at URL:
 `https://github.com/<username>/ppchem`. You should
 see a page like this:
 
-![Pull Request 1](../../assets/Lecture05/1.png)
+![Pull Request 1](../../assets/Lecture04/1.png)
 
 Click the branch drop down menu where it says "main" to select a branch, and select the
 branch "update-env":
 
-![Pull Request 2](../../assets/Lecture05/2.png)
+![Pull Request 2](../../assets/Lecture04/2.png)
 
 You should see that your branch `update-env` is 1 commit ahead of main. We want to
 create a pull request for this branch, so will click on the "contribute" button, and
 select "Open pull request":
 
-![Pull Request 3](../../assets/Lecture05/3.png)
+![Pull Request 3](../../assets/Lecture04/3.png)
 
 this will open a new page for opening a pull request:
 
-![Pull Request 4](../../assets/Lecture05/4.png)
+![Pull Request 4](../../assets/Lecture04/4.png)
 
 Make sure you add a title and a short description of your pull request - i.e the changes
 you have made and want to merge. Then, select "Create pull request". This will take you
@@ -126,17 +126,17 @@ As this is just your personal repository and the changes to the code weren't
 significant, for now we will not do any review and just merge into main. Select "Merge
 pull request":
 
-![Pull Request 5](../../assets/Lecture05/5.png)
+![Pull Request 5](../../assets/Lecture04/5.png)
 
 and "Confirm merge":
 
 
-![Pull Request 6](../../assets/Lecture05/6.png)
+![Pull Request 6](../../assets/Lecture04/6.png)
 
 then your pull request is merged! You can safely delete the branch associated with the
 PR, as all the changes are now in main:
 
-![Pull Request 7](../../assets/Lecture05/7.png)
+![Pull Request 7](../../assets/Lecture04/7.png)
 
 The pull request is accessible in the "Pull Requests" tab of the main repository page,
 but will be in the 'closed' section.
@@ -144,6 +144,6 @@ but will be in the 'closed' section.
 Navigate back to your main repository landing page, i.e.
 `https://github.com/<username>/ppchem` and check that the changes are there:
 
-![Pull Request 8](../../assets/Lecture05/8.png)
+![Pull Request 8](../../assets/Lecture04/8.png)
 
 Good job! Now onto the exercises...
