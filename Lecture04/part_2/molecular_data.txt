@@ -1,0 +1,24 @@
+# Compound Name,Molecular Weight (g/mol),Boiling Point (°C)
+Water,18.015,100.0
+Carbon Dioxide,44.01,-78.5
+Methane,16.04,-161.5
+Ethanol,46.07,78.3
+Oxygen,32.00,-183.0
+Nitrogen,28.01,-196.0
+Hydrogen Peroxide,34.01,150.2
+Ammonia,17.03,-33.3
+Sulfuric Acid,98.09,337.0
+Acetic Acid,60.05,118.1
+Methanol,32.04,64.7
+Benzene,78.11,80.1
+Ethylene,28.05,-103.7
+Propane,44.10,-42.1
+Butane,58.12,-0.5
+Pentane,72.15,36.1
+Hexane,86.18,68.7
+Heptane,100.20,98.4
+Octane,114.22,125.7
+Nonane,128.25,150.8
+Decane,142.28,174.1
+Caffeine,194.19,178.0
+Ethane,30.07,-88.6

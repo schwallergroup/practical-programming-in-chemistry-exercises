@@ -26,7 +26,7 @@ Make sure you have completed Exercise 3, and check out the [warm-up exercise](04
 
 ## Exercise
 
-Now you're ready to give the [exercises](04_exercise.ipynb) a go!
+Now you're ready to give the [exercises](04_01_exercise.ipynb) a go!
 
 
 ## Extra reading
