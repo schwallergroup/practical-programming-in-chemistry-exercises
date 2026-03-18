@@ -1,0 +1,3 @@
+Molecule: NanoPutian Chain
+Image URL: https://github.com/jwa7/ppchem/blob/main/nanoputian_chain.png
+Description: NanoPutians are a series of organic molecules whose structural formulae resemble human forms.
