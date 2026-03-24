@@ -1,4 +1,4 @@
-# Lecture 06: Introduction to RDKit
+# Lecture 05: Introduction to RDKit
 
 RDKit is a powerful open-source cheminformatics toolkit designed to simplify chemical data processing. Importantly, it has specialized classes to deal with molecular structures, allowing us to easily represent, modify, and visualize molecules. RDKit is a useful tool both in research and in industry (and some of your TA's proudly consider themselves RDKit hackers :sunglasses:)
 
