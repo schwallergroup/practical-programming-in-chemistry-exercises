@@ -10,7 +10,7 @@ Today we will go through some of RDKit's most useful functionalities:
 
 ## Setup
 
-Get your exercises by running `git pull` from your `practical-programming-in-chemistry-exercises` folder. Copy `Lecture06` to your `ppchem` folder (or whatever folder you're using to complete your exercises), and complete the exercises from there. 
+Get your exercises by running `git pull` from your `practical-programming-in-chemistry-exercises` folder. Copy `Lecture05` to your `ppchem` folder (or whatever folder you're using to complete your exercises), and complete the exercises from there. 
 
 This week, we need one extra package: `py3Dmol`. Install it with `pip` into your `ppchem` environment. Update the `.env` file just like you did yesterday. Try to see what you remember from yesterday, but if you need help, walk through the instructions in Lecture05 with `py3Dmol` instead of `matplotlib`. 
 
