@@ -36,4 +36,4 @@ git push origin main
 
 ## Exercise
 
-Now you're ready to give the [exercises](06_exercise.ipynb) a go!
+Now you're ready to give the [exercises](05_exercise.ipynb) a go!
