@@ -19,13 +19,14 @@ Navigate to the relevant week to access the exercises.
 | 02 | GitHub and creating first repositories | [Lecture02](Lecture02) |
 | 03 | Conda, Jupyter notebooks, and Python basics | [Lecture03](Lecture03) |
 | 04 | Advanced Python: file I/O, functions, error handling, and classes. | [Lecture04](Lecture04) |
-| 05 | Numerical operations, data handling, data visualization: `numpy`, `pandas`, `matplotlib` |[Lecture05](Lecture05)  |
-| 06 | `RDKit` (part I): Reading/Writing, Descriptors, Fingerprints | [Lecture06](Lecture06) |
-| 07 | `RDKit` (part II): Substructure matching, Conformer generation | [Lecture07](Lecture07) |
-| 08 | Visualization and analysis of chemical data (clustering) |  [Lecture11](Lecture08)|
-| 09 | Streamlit |[Lecture12](Lecture09)  |
-| 10 | Making a Python package | [Lecture08](Lecture10)|
-| 11 | Better code | [Lecture09](Lecture11) |
+| 05 | Numerical operations, data handling, data visualization: `numpy`, `pandas`, `matplotlib`, `RDKit` |[Lecture05](Lecture05)  |
+| 06 | `RDKit` (part II): Substructure matching, Conformer generation | [Lecture06](Lecture06) |
+| 07 | Visualization and analysis of chemical data (clustering) |  [Lecture07](Lecture07)|
+| 08 | Streamlit |[Lecture08](Lecture08)  |
+| 09 | Making a Python package | [Lecture09](Lecture09)|
+| 10 | Better code | [Lecture10](Lecture10 |
+| 11 | Web scraping | [Lecture11](Lecture11) |
+
 
 We are currently updating last year's course. So, there might be upcoming changes in the schedule.
 
