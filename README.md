@@ -24,7 +24,7 @@ Navigate to the relevant week to access the exercises.
 | 07 | Visualization and analysis of chemical data (clustering) |  [Lecture07](Lecture07)|
 | 08 | Streamlit |[Lecture08](Lecture08)  |
 | 09 | Making a Python package | [Lecture09](Lecture09)|
-| 10 | Better code | [Lecture10](Lecture10 |
+| 10 | Better code | [Lecture10](Lecture10) |
 | 11 | Web scraping | [Lecture11](Lecture11) |
 
 
