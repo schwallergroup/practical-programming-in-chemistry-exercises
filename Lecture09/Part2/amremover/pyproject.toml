@@ -1,0 +1,18 @@
+# https://packaging.python.org/en/latest/guides/writing-pyproject-toml/
+# Here you find a lot more information of what metadata you could
+# specify in the pyproject.toml
+
+[build-system] # let's go with the default build system (instead of setuptools)
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+# TODO: fill in the project specification below.
+[project]
+# define name = ..., 
+# version = 0.0.1, 
+# dependencies = [...]
+
+
+# We need to define where the main package is. You can leave this bit as is.
+[tool.hatch.build.targets.wheel]
+packages = ["src/amremover"]
