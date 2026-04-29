@@ -1,0 +1,19 @@
+[build-system] 
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "amremover" # name of the installed package
+version = "0.0.1" # version is required
+dependencies = [ # specify the required package dependencies
+    "rdkit",
+    "numpy == 1.25",
+    "typer",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/amremover"]
+
+# https://hatch.pypa.io/1.9/config/metadata/#cli
+[project.scripts]
+amremover = "amremover.cli:run"
